@@ -1,0 +1,10 @@
+{
+  "name": "alrescha",
+  "version": "0.2.0",
+  "description": "작업 전 PROJECT.md와 관련 체크리스트를 읽고, 작업을 하나 끝낼 때마다 체크와 지금·다음·결정·주의를 갱신한다.",
+  "author": {
+    "name": "2klips"
+  },
+  "repository": "https://github.com/2klips/alrescha-skill",
+  "license": "MIT"
+}

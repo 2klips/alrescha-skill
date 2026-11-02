@@ -1,0 +1,16 @@
+{
+  "name": "alrescha-skill",
+  "owner": {
+    "name": "2klips"
+  },
+  "metadata": {
+    "description": "Alrescha 프로젝트 메모리 규칙: AI가 PROJECT.md와 할 일 체크리스트를 일정한 형식으로 고친다."
+  },
+  "plugins": [
+    {
+      "name": "alrescha",
+      "source": "./",
+      "description": "작업 전 PROJECT.md와 관련 체크리스트를 읽고, 작업을 하나 끝낼 때마다 체크와 지금·다음·결정·주의를 갱신한다."
+    }
+  ]
+}
